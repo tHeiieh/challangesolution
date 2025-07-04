@@ -1,0 +1,15 @@
+code example 1 with balance 1000
+** Shipment notice **
+1x Biscuits	700g
+1x Cheese	200g
+Total package weight: 0.8999999999999999kg
+
+** Checkout receipt **
+1x Cheese	200
+2x Biscuits	400
+1x Scratch Card	100
+----------------------
+Subtotal		700
+Shipping		20
+Amount		720
+Balance left		280
